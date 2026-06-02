@@ -15,6 +15,6 @@ A command-line tool that checks if a URL is safe before you click it.
 
 ```bash
 git clone https://github.com/raphaelurbanek257-hub/phish-detector.git
-cd desktop
+cd footprint-scanner
 python phish_detector.py
 
